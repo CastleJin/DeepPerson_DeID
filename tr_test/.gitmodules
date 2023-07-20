@@ -1,0 +1,3 @@
+[submodule "transreid_pytorch/ViTPose_pytorch"]
+	path = transreid_pytorch/ViTPose_pytorch
+	url = https://github.com/jaehyunnn/ViTPose_pytorch.git
